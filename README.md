@@ -18,3 +18,7 @@ The **Uppercase Keyboard App** is a simple yet functional custom keyboard design
 
 [Download the Uppercase Keyboard App](https://drive.google.com/file/d/1KOjx0ji6VgZ5Dlj-l6G8j4kFDFGAHAon/view?usp=sharing)
 
+## Video Demonstration
+
+Watch the [Video Demonstration](https://drive.google.com/file/d/18HGHv9jnunCoapIjneinBsKJfagCtZnB/view?usp=sharing) to see the Uppercase Keyboard App in action.
+
